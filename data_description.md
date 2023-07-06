@@ -1,4 +1,4 @@
-[data.csv](data/data.csv)
+[data.csv](data.csv)
 * Для всех образцов в датасете использовались наночастицы серебра Ag
 * Bacteria: бактериальная клетка-мишень
 * NP_Synthesis: тип синтеза наночастиц
@@ -14,7 +14,7 @@
 * дзета-потенциал;
 * MDR: множественная лекарственная устойчивость резистентен ли обычный препарат к целевому патогену
 
-[bacterial_descriptors.csv](data/bacterial_descriptors.csv)
+[bacterial_descriptors.csv](bacterial_descriptors.csv)
 
 * Tax_id: id бактерии в базе данных NCBI
 * Bacteria: название бактерии
@@ -33,7 +33,7 @@
 * biosafety_level: уровень опасности бактерии
 * isolated_from: источник
 
-[drug_descriptors.csv](data/drug_descriptors.csv)
+[drug_descriptors.csv](drug_descriptors.csv)
 * drug: название лекарства
 * chemID: id лекарства в базе данных CHEMBL
 * prefered_name: название лекарства
