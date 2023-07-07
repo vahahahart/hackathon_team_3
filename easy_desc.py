@@ -3,13 +3,14 @@ RDLogger.DisableLog('rdApp.*')
 
 import pandas as pd
 from pandas import DataFrame
-from rdkit.ML.Descriptors import MoleculeDescriptors 
+
 from rdkit import Chem
+from rdkit.Chem import AllChem
 from rdkit.Chem import Descriptors
+from rdkit.ML.Descriptors import MoleculeDescriptors 
 
 
 def add_desc_to_df(df: DataFrame, desc: list):
-    calc = Descriptors.CalcMolDescriptors
     calc = MoleculeDescriptors.MolecularDescriptorCalculator(desc)
     desc_df = pd.DataFrame(
         df['smiles'].map(lambda x: calc.CalcDescriptors(Chem.MolFromSmiles(x))).to_list()
