@@ -7,3 +7,4 @@
  - За-one-hot-encoditь clade phylum class order family genus,, кроме SPECIES
  - выкинуть минимум и максимум
  - проверить тип growth temp
+ - За-one-hot-encoditь isolated_from
