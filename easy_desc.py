@@ -10,7 +10,7 @@ def add_desc_to_df(df: DataFrame, desc: list):
     calc = Descriptors.CalcMolDescriptors
     calc = MoleculeDescriptors.MolecularDescriptorCalculator(desc)
     desc_df = pd.DataFrame(
-        df['SMILES'].map(lambda x: calc.CalcDescriptors(Chem.MolFromSmiles(x))).to_list()
+        df['smiles'].map(lambda x: calc.CalcDescriptors(Chem.MolFromSmiles(x))).to_list()
     )
     desc_df.columns = desc
     return df.join(desc_df)
