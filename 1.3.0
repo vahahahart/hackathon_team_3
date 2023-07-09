@@ -1,0 +1,12 @@
+Collecting sklearn
+  Downloading sklearn-0.0.post5.tar.gz (3.7 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Building wheels for collected packages: sklearn
+  Building wheel for sklearn (setup.py): started
+  Building wheel for sklearn (setup.py): finished with status 'done'
+  Created wheel for sklearn: filename=sklearn-0.0.post5-py3-none-any.whl size=2951 sha256=35d891e0f5b35f31932ccb7fc80d1b040f4b9b2551707218717cf29ea3cbf8f8
+  Stored in directory: /home/ad3ph/.var/app/com.visualstudio.code/cache/pip/wheels/27/f0/d5/868338ffa491375e7d4416753ad008d35e2f48ee66e17e6b09
+Successfully built sklearn
+Installing collected packages: sklearn
+Successfully installed sklearn-0.0.post5
