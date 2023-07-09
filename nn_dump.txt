@@ -1,0 +1,256 @@
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... relu,
+                do dropout ...... False,
+                epochs .......... 50
+          
+Max R2: 0.7861576625806503, last R2: 0.7779719503568348
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... relu,
+                do dropout ...... False,
+                epochs .......... 75
+          
+Max R2: 0.8704824217985657, last R2: 0.8655465625569267
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... relu,
+                do dropout ...... False,
+                epochs .......... 100
+          
+Max R2: 0.8450856619024982, last R2: 0.7662969668339007
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... relu,
+                do dropout ...... False,
+                epochs .......... 200
+          
+Max R2: 0.8612098513388289, last R2: 0.8285819264587739
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... relu,
+                do dropout ...... True,
+                epochs .......... 50
+          
+Max R2: 0.6900740767104008, last R2: 0.6900740767104008
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... relu,
+                do dropout ...... True,
+                epochs .......... 75
+          
+Max R2: 0.8223115357457147, last R2: 0.7623046212399085
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... relu,
+                do dropout ...... True,
+                epochs .......... 100
+          
+Max R2: 0.8412484156281634, last R2: 0.6546766795019905
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... relu,
+                do dropout ...... True,
+                epochs .......... 200
+          
+Max R2: 0.8971075236236984, last R2: 0.8695104585283782
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... elu,
+                do dropout ...... False,
+                epochs .......... 50
+          
+Max R2: 0.8670049726188579, last R2: 0.8644656811178634
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... elu,
+                do dropout ...... False,
+                epochs .......... 75
+          
+Max R2: 0.8690152920211849, last R2: 0.8412277855280451
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... elu,
+                do dropout ...... False,
+                epochs .......... 100
+          
+Max R2: 0.8730372586899042, last R2: 0.8101077447810491
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... elu,
+                do dropout ...... False,
+                epochs .......... 200
+          
+Max R2: 0.8571785431292155, last R2: 0.6983294278194533
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... elu,
+                do dropout ...... True,
+                epochs .......... 50
+          
+Max R2: 0.7790810039647275, last R2: 0.7314298358510609
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... elu,
+                do dropout ...... True,
+                epochs .......... 75
+          
+Max R2: 0.8472937412080359, last R2: 0.8062204420325809
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... elu,
+                do dropout ...... True,
+                epochs .......... 100
+          
+Max R2: 0.8970991422373593, last R2: 0.8767749550496763
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... elu,
+                do dropout ...... True,
+                epochs .......... 200
+          
+Max R2: 0.9125245175300958, last R2: 0.8509327670754696
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... leaky_relu,
+                do dropout ...... False,
+                epochs .......... 50
+          
+Max R2: 0.8400099336519828, last R2: 0.8399459632105017
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... leaky_relu,
+                do dropout ...... False,
+                epochs .......... 75
+          
+Max R2: 0.8717404252336355, last R2: 0.8444689157657093
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... leaky_relu,
+                do dropout ...... False,
+                epochs .......... 100
+          
+Max R2: 0.8788670027476172, last R2: 0.8699510603623806
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... leaky_relu,
+                do dropout ...... False,
+                epochs .......... 200
+          
+Max R2: 0.8640072813842647, last R2: 0.7027143647228846
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... leaky_relu,
+                do dropout ...... True,
+                epochs .......... 50
+          
+Max R2: 0.7189683841606973, last R2: 0.7189683841606973
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... leaky_relu,
+                do dropout ...... True,
+                epochs .......... 75
+          
+Max R2: 0.8341891564345709, last R2: 0.7880288971086797
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... leaky_relu,
+                do dropout ...... True,
+                epochs .......... 100
+          
+Max R2: 0.8382813977385102, last R2: 0.7487982805660269
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... leaky_relu,
+                do dropout ...... True,
+                epochs .......... 200
+          
+Max R2: 0.905131569108917, last R2: 0.8127082534023222
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... sigmoid,
+                do dropout ...... False,
+                epochs .......... 50
+          
+Max R2: -0.00035968178888490243, last R2: -0.1438900921288493
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... sigmoid,
+                do dropout ...... False,
+                epochs .......... 75
+          
+Max R2: 0.639736699587131, last R2: 0.639736699587131
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... sigmoid,
+                do dropout ...... False,
+                epochs .......... 100
+          
+Max R2: 0.7030095372356907, last R2: 0.7000876450046074
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... sigmoid,
+                do dropout ...... False,
+                epochs .......... 200
+          
+Max R2: 0.8253130778577455, last R2: 0.8208177237993405
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... sigmoid,
+                do dropout ...... True,
+                epochs .......... 50
+          
+Max R2: 0.003932447691381014, last R2: -0.08460984176961395
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... sigmoid,
+                do dropout ...... True,
+                epochs .......... 75
+          
+Max R2: 0.36335977879018866, last R2: 0.35084981228577816
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... sigmoid,
+                do dropout ...... True,
+                epochs .......... 100
+          
+Max R2: 0.7283406980021716, last R2: 0.7283406980021716
+-------------------------
+Params:
+                optimizer ....... Adam,
+                activation ...... sigmoid,
+                do dropout ...... True,
+                epochs .......... 200
+          
+Max R2: 0.8130599573396133, last R2: 0.7565626640988021
