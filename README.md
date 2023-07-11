@@ -1,6 +1,8 @@
 # Хакатон
 
-## Исходные данные
+## Задание и исходные данные
+[Задание](https://github.com/dataconHack/hackathon)
+
 * ```data.csv```  
 * ```bacterial_descriptors.csv```  
 * ```drug_descriptors.csv```  
@@ -26,7 +28,7 @@ http://dx.doi.org/10.1021/acs.jcim.1c00075
 * ```scaler.pkl``` -- обученный скейлер для нейросети.
 
 ## Представление результатов
-[_Team 3 Datacon.pdf](_Team 3 Datacon.pdf)
+[Team 3 Datacon.pdf](Team_3_Datacon.pdf)
 
 ## Участники
 * Артем В., Артем Г., Антон С. -- код предобработки и обучения моделей
